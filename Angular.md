@@ -12,7 +12,6 @@ Bootstrap
 Typescript
 Git
 Cloud principles
-Node js
 Understand Angular
  	 	
 
